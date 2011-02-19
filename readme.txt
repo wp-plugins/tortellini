@@ -4,7 +4,7 @@ Donate link: http://thcxthcx.net/donate.php
 Tags: tor, anonymity, activism
 Requires at least: 3.0.5
 Tested up to: 3.0.5
-Stable tag: trunk
+Stable tag: 0.1.0
 
 Fetches Tor bridges and displays them in different ways with a shortcode
 
